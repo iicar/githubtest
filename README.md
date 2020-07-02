@@ -13,3 +13,5 @@ This is the purpose of this project.
 ## Deployment
 
 ## How to Contribute
+
+Adding some simple text for stashing
